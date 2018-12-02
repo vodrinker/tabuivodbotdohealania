@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// siema vod
 public class HealBot : MonoBehaviour
 {
 
